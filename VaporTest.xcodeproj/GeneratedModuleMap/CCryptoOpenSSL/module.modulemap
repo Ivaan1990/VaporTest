@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/vhod/VaporTest/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}
